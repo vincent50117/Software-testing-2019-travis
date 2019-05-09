@@ -77,6 +77,9 @@ public class TestMultiplication {
 	//@Test
 	public void testMultiplicationThreeNumberArrayList() {
 		// Test three number multiplications
+                int a = 7;
+                int b = 5;
+                int c = 3;
 
 		// Here should init prepared answer
                 int expectedANS = 105;
