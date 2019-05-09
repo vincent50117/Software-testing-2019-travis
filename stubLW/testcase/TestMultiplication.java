@@ -74,7 +74,7 @@ public class TestMultiplication {
 		assertEquals(expectedANS, actualANS);
 	}
 
-	//@Test
+	@Test
 	public void testMultiplicationThreeNumberArrayList() {
 		// Test three number multiplications
                 int a = 7;
